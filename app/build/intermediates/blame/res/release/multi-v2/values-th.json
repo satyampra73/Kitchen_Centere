@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Satyam\\LiveProjects\\template_kitchen2022\\template_kitchen(1.1)\\template_kitchen12\\template\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-th\\values-th.xml",
+            "outputFile": "C:\\Satyam\\LiveProjects\\template_kitchen2022\\template_kitchen(1.2)\\template_kitchen12\\template\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-th\\values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\a89614b748f2f73056ba80e4e3ae3726\\play-services-base-18.0.1\\res\\values-th\\values.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "3294,3400,3547,3670,3777,3913,4037,4156,4393,4537,4642,4789,4911,5051,5202,5266,5334",
                         "endColumns": "105,146,122,106,135,123,118,107,143,104,146,121,139,150,63,67,83",
                         "endOffsets": "3395,3542,3665,3772,3908,4032,4151,4259,4532,4637,4784,4906,5046,5197,5261,5329,5413"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\3a9547e2c8e274f7ced90210fed4a34e\\jetified-play-services-basement-18.1.0\\res\\values-th\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "124",
-                        "endOffsets": "319"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4264",
-                        "endColumns": "128",
-                        "endOffsets": "4388"
                     }
                 },
                 {
@@ -57,6 +40,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\83a9bf5f4ce30c3f5bd36ca0a4f9025c\\jetified-play-services-basement-18.1.0\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "124",
+                        "endOffsets": "319"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4264",
+                        "endColumns": "128",
+                        "endOffsets": "4388"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\9512005ea4bb588712790808224c8888\\core-1.5.0\\res\\values-th\\values-th.xml",
                     "from": {
                         "startLines": "2",
@@ -74,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\5e2af26d0172d6b48fa9bfbe8478c2ec\\jetified-firebase-messaging-22.0.0\\res\\values-th\\values.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\814d48ef6a9f098ce9d52154bcb2fb32\\jetified-firebase-messaging-22.0.0\\res\\values-th\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -108,7 +108,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\a83903e33a38a26aace98711e0e67f1c\\jetified-play-services-ads-18.3.0\\res\\values-th\\values.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\aa402424b65860ed7f0ce4f9eaa67a21\\jetified-play-services-ads-18.3.0\\res\\values-th\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",

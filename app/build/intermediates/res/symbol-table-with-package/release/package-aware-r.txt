@@ -3094,6 +3094,7 @@ id view_offset_helper
 id view_transition
 id visible
 id visible_removing_fragment_view_tag
+id web
 id webview_layout
 id webview_layout_se
 id west
@@ -3200,6 +3201,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_new_webview
 layout activity_second
 layout activity_splash_
 layout browser_actions_context_menu_page
