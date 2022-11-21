@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">583474641687-3kb8sq65kbhr7hrf5ilsnghejcknk073.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">583474641687</string>
+    <string name="google_api_key" translatable="false">AIzaSyCyGyD15zIs7APQ01DvBl6k7njj5GfjcZM</string>
+    <string name="google_app_id" translatable="false">1:583474641687:android:4738d40be837cc2f445552</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCyGyD15zIs7APQ01DvBl6k7njj5GfjcZM</string>
+    <string name="google_storage_bucket" translatable="false">kitchencentre-fc39c.appspot.com</string>
+    <string name="project_id" translatable="false">kitchencentre-fc39c</string>
+</resources>
