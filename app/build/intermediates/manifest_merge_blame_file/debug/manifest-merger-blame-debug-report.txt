@@ -6,31 +6,31 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml
+8-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml
+9-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:6:5-67
-11-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:6:22-64
+11-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.WAKE_LOCK" />
-12-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:7:5-68
-12-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:7:22-65
+12-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:7:5-68
+12-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:7:22-65
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:8:5-81
-13-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:8:22-78
+13-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:8:22-78
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:9:5-79
-14-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:9:22-76
+14-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:9:22-76
 15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-15-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:10:5-81
-15-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:10:22-78
+15-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:10:22-78
 16    <uses-permission android:name="android.permission.VIBRATE" />
-16-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:11:5-66
-16-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:11:22-63
+16-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:11:5-66
+16-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:11:22-63
 17    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-17-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:12:5-71
-17-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:12:22-68
+17-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:12:5-71
+17-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:12:22-68
 18
 19    <!-- Required by older versions of Google Play services to create IID tokens -->
 20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -44,139 +44,139 @@
 22-->[com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\1feccdc824585aa6f6e07a8dcd86d74c\play-services-measurement-impl-21.1.1\AndroidManifest.xml:27:22-76
 23
 24    <application
-24-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:15:5-85:19
+24-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:15:5-85:19
 25        android:name="com.db.kitchencenter.App"
-25-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:16:9-28
+25-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:16:9-28
 26        android:allowBackup="true"
-26-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:17:9-35
+26-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:17:9-35
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 27-->[androidx.core:core:1.5.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9512005ea4bb588712790808224c8888\core-1.5.0\AndroidManifest.xml:24:18-86
 28        android:debuggable="true"
 29        android:icon="@drawable/appicon"
-29-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:18:9-41
+29-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:18:9-41
 30        android:label="@string/app_name"
-30-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:19:9-41
+30-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:19:9-41
 31        android:theme="@style/AppTheme"
-31-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:20:9-40
+31-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:20:9-40
 32        android:usesCleartextTraffic="true" >
-32-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:21:9-44
+32-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:21:9-44
 33        <activity
-33-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:23:9-29:20
+33-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:23:9-29:20
 34            android:name="com.db.kitchencenter.activity.NewWebviewActivity"
-34-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:24:13-56
+34-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:24:13-56
 35            android:exported="false" >
-35-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:25:13-37
+35-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:25:13-37
 36            <meta-data
-36-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:26:13-28:36
+36-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:26:13-28:36
 37                android:name="android.app.lib_name"
-37-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:27:17-52
+37-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:27:17-52
 38                android:value="" />
-38-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:28:17-33
+38-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:28:17-33
 39        </activity>
 40        <activity
-40-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:30:9-36:58
+40-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:30:9-36:58
 41            android:name="com.db.kitchencenter.activity.MainActivity"
-41-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:31:13-50
+41-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:31:13-50
 42            android:configChanges="keyboardHidden|keyboard|orientation|screenSize"
-42-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:32:13-83
+42-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:32:13-83
 43            android:exported="true"
-43-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:33:13-36
+43-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:33:13-36
 44            android:hardwareAccelerated="true"
-44-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:34:13-47
+44-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:34:13-47
 45            android:label="@string/app_name"
-45-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:35:13-45
+45-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:35:13-45
 46            android:windowSoftInputMode="adjustResize" />
-46-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:36:13-55
+46-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:36:13-55
 47
 48        <meta-data
-48-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:38:9-40:36
+48-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:38:9-40:36
 49            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
-49-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:39:13-69
+49-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:39:13-69
 50            android:value="true" />
-50-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:40:13-33
+50-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:40:13-33
 51
 52        <service
-52-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:42:9-50:19
+52-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:42:9-50:19
 53            android:name="com.db.kitchencenter.FirebaseMessageReceiver"
-53-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:43:13-52
+53-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:43:13-52
 54            android:exported="false"
-54-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:44:13-37
+54-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:44:13-37
 55            android:permission="TODO"
-55-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:45:13-38
+55-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:45:13-38
 56            android:stopWithTask="false" >
-56-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:46:13-41
+56-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:46:13-41
 57            <intent-filter>
-57-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:47:13-49:29
+57-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:47:13-49:29
 58                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-58-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:48:17-78
-58-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:48:25-75
+58-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:48:17-78
+58-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:48:25-75
 59            </intent-filter>
 60        </service>
 61
 62        <activity
-62-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:52:9-54:48
+62-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:52:9-54:48
 63            android:name="com.db.kitchencenter.activity.SecondActivity"
-63-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:53:13-52
+63-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:53:13-52
 64            android:exported="true" />
-64-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:54:13-36
+64-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:54:13-36
 65        <activity
-65-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:55:9-66:20
+65-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:55:9-66:20
 66            android:name="com.db.kitchencenter.activity.FCMHandleActivity"
-66-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:56:13-55
+66-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:56:13-55
 67            android:exported="true"
-67-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:57:13-36
+67-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:57:13-36
 68            android:launchMode="singleTask"
-68-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:58:13-44
+68-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:58:13-44
 69            android:screenOrientation="portrait"
-69-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:59:13-49
+69-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:59:13-49
 70            android:windowSoftInputMode="stateHidden" >
-70-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:60:13-54
+70-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:60:13-54
 71            <intent-filter>
-71-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:61:13-65:29
+71-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:61:13-65:29
 72                <action android:name="FCMHandleActivity" />
-72-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:62:17-60
-72-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:62:25-57
+72-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:62:17-60
+72-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:62:25-57
 73
 74                <category android:name="android.intent.category.DEFAULT" />
-74-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:64:17-76
-74-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:64:27-73
+74-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:64:17-76
+74-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:64:27-73
 75            </intent-filter>
 76        </activity>
 77        <activity
-77-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:67:9-84:20
+77-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:67:9-84:20
 78            android:name="com.db.kitchencenter.activity.Splash_Activity"
-78-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:68:13-53
+78-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:68:13-53
 79            android:exported="true" >
-79-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:69:13-36
+79-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:69:13-36
 80            <intent-filter>
-80-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:70:13-74:29
+80-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:70:13-74:29
 81                <action android:name="android.intent.action.MAIN" />
-81-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:71:17-69
-81-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:71:25-66
+81-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:71:17-69
+81-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:71:25-66
 82
 83                <category android:name="android.intent.category.LAUNCHER" />
-83-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:73:17-77
-83-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:73:27-74
+83-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:73:17-77
+83-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:73:27-74
 84            </intent-filter>
 85            <intent-filter>
-85-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:75:13-83:29
+85-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:75:13-83:29
 86                <action android:name="android.intent.action.VIEW" />
-86-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:76:17-69
-86-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:76:25-66
+86-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:76:17-69
+86-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:76:25-66
 87
 88                <category android:name="android.intent.category.DEFAULT" />
-88-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:64:17-76
-88-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:64:27-73
+88-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:64:17-76
+88-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:64:27-73
 89                <category android:name="android.intent.category.BROWSABLE" />
-89-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:79:17-78
-89-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:79:27-75
+89-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:79:17-78
+89-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:79:27-75
 90
 91                <data android:scheme="https" />
-91-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:81:17-48
-91-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:81:23-45
+91-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:81:17-48
+91-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:81:23-45
 92                <data android:host="kitchencenter.developerbrothersproject.com" />
-92-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:81:17-48
-92-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:82:23-80
+92-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:81:17-48
+92-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:82:23-80
 93            </intent-filter>
 94        </activity>
 95
@@ -208,10 +208,10 @@
 111            android:exported="false" >
 111-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\814d48ef6a9f098ce9d52154bcb2fb32\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
 112            <intent-filter android:priority="-500" >
-112-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:47:13-49:29
+112-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:47:13-49:29
 113                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-113-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:48:17-78
-113-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.2)\template_kitchen12\template\app\src\main\AndroidManifest.xml:48:25-75
+113-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:48:17-78
+113-->C:\Satyam\LiveProjects\template_kitchen2022\template_kitchen(1.3)\template_kitchen(1.3)\template\app\src\main\AndroidManifest.xml:48:25-75
 114            </intent-filter>
 115        </service>
 116        <service

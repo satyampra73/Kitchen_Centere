@@ -70,6 +70,8 @@ public class NewWebviewActivity extends AppCompatActivity {
         });
     }
 
-
-
+    @Override
+    public void onBackPressed() {
+        webView.goBack();
+    }
 }
